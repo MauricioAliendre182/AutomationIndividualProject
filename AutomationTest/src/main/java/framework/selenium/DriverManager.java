@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import utils.LoggerManager;
 
+import java.io.File;
 import java.util.*;
 
 import static constants.DomainAppConstants.*;
@@ -45,7 +46,7 @@ public class DriverManager {
                 chromeOptions.setExperimentalOption("useAutomationExtension", false);
                 chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
                 chromeOptions.setExperimentalOption("excludeSwitches", List.of("disable-popup-blocking"));
-
+                chromeOptions.addExtensions(new File(System.getProperty("user.dir") + File.separator + "src\\test\\resources\\adBlocker\\extension_1_47_2_0.crx"));
                 chromeOptions.addArguments("--password-store=basic");
                 Map<String, Object> prefs = new HashMap<String, Object>();
                 prefs.put("credentials_enable_service", false);
@@ -64,6 +65,7 @@ public class DriverManager {
                 edgeOptions.setExperimentalOption("useAutomationExtension", false);
                 edgeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
                 edgeOptions.setExperimentalOption("excludeSwitches", List.of("disable-popup-blocking"));
+                edgeOptions.addExtensions(new File(System.getProperty("user.dir") + File.separator + "src\\test\\resources\\adBlocker\\extension_1_47_2_0.crx"));
 
                 edgeOptions.addArguments("--password-store=basic");
                 Map<String, Object> prefs = new HashMap<String, Object>();
@@ -111,7 +113,7 @@ public class DriverManager {
     public void quitWebDriver() {
         try {
             log.info("Closing WebDriver");
-//            driver.quit();
+            driver.quit();
         } catch (Exception e) {
             log.error(e.getMessage());
         }

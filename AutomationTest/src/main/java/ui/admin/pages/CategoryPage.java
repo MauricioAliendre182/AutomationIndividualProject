@@ -3,9 +3,7 @@ package ui.admin.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import ui.admin.BaseAdminPage;
@@ -29,7 +27,7 @@ public class CategoryPage extends BaseAdminPage {
         return titleProducts.size();
     }
 
-    public boolean IsOnTheCorrectCategory(String category, String subcategory) {
+    public boolean isOnTheCorrectCategory(String category, String subcategory) {
         String path = String.format("//h2[contains(text(), '%1$s - %2$s ')]", category, subcategory);
         WebElement title = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(path)));
         return title.isDisplayed();

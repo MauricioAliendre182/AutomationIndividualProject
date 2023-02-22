@@ -7,7 +7,7 @@ import utils.LoggerManager;
 public class AdminFeatureHook {
     private static final LoggerManager log = LoggerManager.getInstance();
 
-    @After("@AddToCart")
+    @After("@Products")
     public void afterLoginAdmin() {
         CommonMethods.logout();
     }

@@ -379,3 +379,132 @@
 2023-02-22 03:36:47.157 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
 2023-02-22 03:36:50.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
 2023-02-22 03:36:50.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 11:49:05.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 11:49:05.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
+2023-02-22 11:49:05.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 11:49:12.327 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 11:49:12.335 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 11:49:12.335 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 11:49:12.336 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 11:49:20.535 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 11:49:22.189 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 11:49:32.751 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 11:49:40.300 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
+2023-02-22 11:49:40.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 11:54:32.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 11:54:32.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 11:54:32.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 11:54:36.233 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 11:54:36.239 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 11:54:36.239 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 11:54:36.240 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 11:54:47.618 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 11:54:47.813 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 11:55:08.566 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 11:55:10.277 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
+2023-02-22 11:55:10.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 12:02:48.676 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 12:02:48.679 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 12:02:48.679 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 12:02:53.543 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:02:53.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 12:02:53.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 12:02:53.549 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 12:03:06.897 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:03:07.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:03:36.148 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 12:03:38.456 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:03:38.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 12:29:43.433 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 12:29:43.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 12:29:43.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 12:29:48.501 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:29:48.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 12:29:48.507 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 12:29:48.507 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 12:30:04.378 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:30:04.578 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:30:35.285 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 12:30:37.881 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:30:37.889 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:30:46.356 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:30:46.500 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:31:14.618 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
+2023-02-22 12:31:15.004 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 12:34:27.071 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 12:34:27.074 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 12:34:27.075 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 12:34:31.800 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:34:31.805 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 12:34:31.805 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 12:34:31.806 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 12:34:45.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:34:46.138 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:35:14.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 12:35:17.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:35:17.655 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:35:24.795 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:35:24.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:35:34.069 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:35:34.070 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 12:37:45.763 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 12:37:45.765 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 12:37:45.766 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 12:37:50.278 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:37:50.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 12:37:50.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 12:37:50.284 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 12:38:03.758 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:38:03.996 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:38:17.282 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 12:38:18.718 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:38:18.726 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 12:38:37.319 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:38:37.472 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 12:38:46.558 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 12:38:48.502 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 12:38:48.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 16:24:39.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 16:24:39.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 16:24:39.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 16:24:44.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 16:24:54.672 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:24:54.806 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:24:58.589 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:24:59.607 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:24:59.610 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:25:08.431 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:25:08.531 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:25:14.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:25:15.294 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:25:15.296 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-22 16:50:47.391 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-22 16:50:47.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-22 16:50:47.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-22 16:50:50.994 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:50:50.997 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-22 16:50:50.997 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-22 16:50:50.998 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-22 16:51:00.745 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:00.841 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:04.709 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:51:05.734 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:51:05.739 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:51:13.964 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:14.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:19.364 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:51:20.265 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:51:20.268 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:51:30.267 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:30.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:38.834 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:51:39.740 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:51:39.742 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-22 16:51:44.536 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:44.629 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-22 16:51:50.284 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-22 16:51:52.230 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-22 16:51:52.231 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver

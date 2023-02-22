@@ -18,6 +18,9 @@ public class DetailsPage extends BaseAdminPage {
     @FindBy(xpath = "//button[contains(text(), 'Continue Shopping')]")
     WebElement continueShoppingButton;
 
+    @FindBy(xpath = "//label[text()='Quantity:']")
+    WebElement labelQuantity;
+
     public DetailsPage() {
         PageFactory.initElements(driver, this);
         waitUntilPageObjectIsLoaded();
@@ -26,17 +29,23 @@ public class DetailsPage extends BaseAdminPage {
     public void waitUntilPageObjectIsLoaded() throws WebDriverException {
         inputQuantity = wait.until(ExpectedConditions.elementToBeClickable(inputQuantity));
         addToCartButton = wait.until(ExpectedConditions.elementToBeClickable(addToCartButton));
+        labelQuantity = wait.until(ExpectedConditions.visibilityOf(labelQuantity));
     }
 
-    private void configureTheQuantity(String quantity) {
+    public void configureTheQuantity(String quantity) {
         inputQuantity.click();
         inputQuantity.clear();
         inputQuantity.sendKeys(quantity);
     }
 
-    private void addToCart() {
+    public void addToCart() {
         addToCartButton.click();
         continueShoppingButton = wait.until(ExpectedConditions.elementToBeClickable(continueShoppingButton));
         continueShoppingButton.click();
     }
+
+    public boolean IsQuantityLabelPresent() {
+        return labelQuantity.isDisplayed();
+    }
+
 }

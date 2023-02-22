@@ -8,8 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import ui.admin.BaseAdminPage;
 
-import java.util.List;
-
 public class CartPage extends BaseAdminPage {
     @FindBy(xpath = "//a[text()='Proceed To Checkout']")
     WebElement checkoutButton;

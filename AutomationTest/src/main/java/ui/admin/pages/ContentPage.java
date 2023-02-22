@@ -28,7 +28,7 @@ public class ContentPage extends BaseAdminPage {
 
     public DetailsPage goToDetailsPage(String idProduct, Integer scroll) {
         UIMethods.scrollWindow(scroll);
-        String detailsPath = String.format("//a[@data-product-id='%s']", idProduct);
+        String detailsPath = String.format("//a[@href='/product_details/%s']", idProduct);
         WebElement detailsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(detailsPath)));
         detailsButton.click();
         return new DetailsPage();
@@ -62,7 +62,7 @@ public class ContentPage extends BaseAdminPage {
         return new CategoryPage();
     }
 
-    public boolean IsOnProductsSection() {
+    public boolean isOnProductsSection() {
         return titleSection.isDisplayed();
     }
 
