@@ -88,4 +88,15 @@ public class CredentialsManager {
     public String getDetailsURL() {
         return getBaseURL() + getEnvironmentSetting(getEnvId() + ".details");
     }
+    public String getCheckoutURL() {
+        return getBaseURL() + getEnvironmentSetting(getEnvId() + ".checkout");
+    }
+
+    public String getPaymentURL() {
+        return getBaseURL() + getEnvironmentSetting(getEnvId() + ".payment");
+    }
+
+    public String getPaymentDoneURL() {
+        return getBaseURL() + getEnvironmentSetting(getEnvId() + ".payment_done");
+    }
 }

@@ -22,63 +22,11 @@ public class UIMethods {
         js.executeScript("window.scrollBy(0,arguments[0]);", scrollPixel);
     }
 
-    public static void clickWebElementJs(WebElement element) {
-        JavascriptExecutor js = (JavascriptExecutor) driver;
-        js.executeScript("arguments[0].click();", element);
-    }
-
-    public static void clickWebElementJs(String xpathLocator) {
-        js.executeScript("""
-                clickWebElementJs(arguments[0]);
-                
-                function clickWebElementJs(path) {
-                var element =  document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-                element.click()
-                }
-                """, xpathLocator);
-    }
-
-    public static void clickWebElementIfPresentJs(String xpathLocator) {
-        js.executeScript("""
-                clickWebElementIfPresent(arguments[0]);
-                function clickWebElementIfPresent(path) {
-                var elements = document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-                if (elements.length > 0) {
-                elements[0].click();
-                }
-                }""", xpathLocator);
-    }
-
-    public static boolean isWebElementPresentJs(String xpathLocator) {
+    public static boolean isWebElementNotPresentByXpath(String xpathLocator) {
         return (Boolean) js.executeScript("""
-                return isWebElementPresent(arguments[0]);
-                
-                function isWebElementPresent(path) {
-                var elements = document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-                return elements.length > 0;
+                return isWebElementNotPresentByXpath(arguments[0]) == null;
+                function isWebElementNotPresentByXpath(path) {
+                return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
                 }""", xpathLocator);
-    }
-
-
-    public static boolean isWebElementVisibleJs(WebElement element) {
-        return (Boolean) js.executeScript("return arguments[0].checkVisibility();", element);
-    }
-
-    public static void removeWebElementFromDOMJs(String cssLocator) {
-        js.executeScript("""
-                removeWebElement(arguments[0]);
-                function removeWebElement(cssLocator) {
-                var element = document.querySelector(cssLocator);
-                element.remove();
-                }""", cssLocator);
-    }
-
-    public static void hideWebElementJs(String cssLocator) {
-        js.executeScript("""
-                hideWebElement(arguments[0]);
-                function hideWebElement(cssLocator) {
-                var element = document.querySelector(cssLocator);
-                element.style.display = 'none';
-                }""", cssLocator);
     }
 }

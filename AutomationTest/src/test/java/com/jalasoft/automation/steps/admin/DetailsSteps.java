@@ -3,15 +3,18 @@ package com.jalasoft.automation.steps.admin;
 import io.cucumber.java.en.Then;
 import org.testng.Assert;
 import ui.PageTransporter;
+import ui.admin.pages.CartPage;
 import ui.admin.pages.ContentPage;
 import ui.admin.pages.DetailsPage;
 
 public class DetailsSteps {
+    public Boolean negativeState;
 
     private final PageTransporter pageTransporter;
     private final ContentPage contentPage;
 
     private DetailsPage detailsPage;
+    public CartPage cartPage;
 
 
     public DetailsSteps(ContentPage contentPage){
@@ -30,5 +33,18 @@ public class DetailsSteps {
         if (pageTransporter.isOnDetailsPage()){
             detailsPage.addToCart();
         }
+    }
+
+    @Then("^I set the number \"([0-9]|-[0-9])\" in quantity part from details product$")
+    public void setNumberInQuantity(String quantity) {
+        detailsPage.configureTheQuantity(quantity);
+        detailsPage.addToCart();
+        cartPage = detailsPage.goToCartSection();
+        negativeState = cartPage.isNegativeNumber();
+    }
+
+    @Then("^I go to check if the product had a negative number in quantity$")
+    public void isANegativeNumberPresent() {
+        Assert.assertFalse(negativeState);
     }
 }

@@ -3,12 +3,9 @@ package com.jalasoft.automation.steps.admin;
 import framework.selenium.UIMethods;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import io.cucumber.java.sl.In;
 import org.testng.Assert;
 import ui.PageTransporter;
-import ui.admin.components.AdButton;
 import ui.admin.pages.ContentPage;
-import ui.admin.pages.DetailsPage;
 import ui.admin.pages.HomeAdminPage;
 
 

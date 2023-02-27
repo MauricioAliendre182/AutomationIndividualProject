@@ -1,5 +1,6 @@
 package ui.admin.pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -44,8 +45,18 @@ public class DetailsPage extends BaseAdminPage {
         continueShoppingButton.click();
     }
 
+    public CartPage goToCartSection() {
+        return topBarMenu.cartPage();
+    }
+
     public boolean IsQuantityLabelPresent() {
         return labelQuantity.isDisplayed();
+    }
+
+    public boolean isAddedLabelPresent() {
+        String addedText = "//h4[text()='Added!']";
+        WebElement addedLabel = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(addedText)));
+        return addedLabel.isDisplayed();
     }
 
 }

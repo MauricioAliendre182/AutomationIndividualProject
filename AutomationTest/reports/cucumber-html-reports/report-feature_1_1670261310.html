@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 
 
-<title>Cucumber Reports (no 0) - Feature: Products</title>
+<title>Cucumber Reports (no 0) - Feature: Test run failed</title>
 
 </head>
 <body>
@@ -76,7 +76,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>WordPress</td>
         <td>0</td>
-      <td>25 feb 2023, 17:28</td>
+      <td>26 feb 2023, 21:24</td>
     </tr>
   </tbody>
 </table>
@@ -128,19 +128,19 @@ $(document).ready(function() {
 
         <tbody>
         <tr>
-          <td class="tagname">Products</td>
-          <td      class="passed"    >6</td>
+          <td class="tagname">Test run failed</td>
+          <td      class="passed"    >1</td>
           <td      class="failed"    >1</td>
           <td >0</td>
           <td >0</td>
           <td >0</td>
-          <td class="total">7</td>
+          <td class="total">2</td>
 
           <td >0</td>
           <td  class="failed"    >1</td>
           <td class="total">1</td>
 
-          <td class="duration" data-value="55442514100">55.442</td>
+          <td class="duration" data-value="0">0.000</td>
           <td class="failed">Failed</td>
         </tr>
         </tbody>
@@ -170,20 +170,17 @@ $(document).ready(function() {
       <div class="feature">
 
 <div class="tags indention">
-    <b>Tags:</b>
-       <a href="report-tag_2147547859.html">@UI</a>
-       <a href="report-tag_1495397827.html">@Products</a>
 </div>
 
 
 <div class="brief failed">
   <span class="keyword indention">Feature</span>
-  <span class="name">Products</span>
+  <span class="name">Test run failed</span>
 
 
 </div>
 
-        <div class="description indention"></div>
+        <div class="description indention">There were errors during the execution</div>
 
         <div class="elements inner-level">
 
@@ -191,22 +188,17 @@ $(document).ready(function() {
 
 
 <div class="tags indention">
-    <b>Tags:</b>
-       <a href="report-tag_2147547859.html">@UI</a>
-       <a href="report-tag_1495397827.html">@Products</a>
-       <a href="report-tag_3151281724.html">@SetANegativeNumber</a>
-       <a href="report-tag_2209192177.html">@Test</a>
 </div>
 
 
-  <span class="lead-duration duration">55.442</span>
+  <span class="lead-duration duration">0.000</span>
 
 
   <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
 
 <div class="brief failed">
-  <span class="keyword indention">Scenario Outline</span>
-  <span class="name">A user should not be able to set a negative number in quantity products</span>
+  <span class="keyword indention">Scenario</span>
+  <span class="name">Failure while executing Cucumber</span>
 
 
      <i class="chevron fa fa-fw"></i>
@@ -218,43 +210,11 @@ $(document).ready(function() {
   <div id="element-1" class="collapse collapsable-details  in ">
 
 
-  <div class="inner-level hooks-element-before">
-    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#before-2">
-
-<div class="brief passed">
-  <span class="keyword indention">Hooks</span>
-  <span class="name"></span>
-
-
-     <i class="chevron fa fa-fw"></i>
-</div>
-
-    </div>
-
-    <div id="before-2" class="inner-level collapse collapsable-details ">
-        <div class="hook">
-          <div class="brief passed">
-            <span class="keyword indention">Before</span>
-              <span class="location name">com.jalasoft.automation.steps.hooks.ScenarioHooks.beforeScenario(io.cucumber.java.Scenario)</span>
-
-  <span class="lead-duration duration">0.351</span>
-
-          </div>
-
-
-
-
-
-
-
-        </div>
-    </div>
-  </div>
 
 
 
 <div class="steps inner-level">
-  <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-3">
+  <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-2">
 
 <div class="brief failed">
   <span class="keyword indention">Steps</span>
@@ -266,69 +226,15 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-3" class="inner-level collapse collapsable-details  in ">
-      <div class="step">
-
-
-<div class="brief step-name-Given passed">
-  <span class="keyword indention">Given</span>
-  <span class="name">I am logged in to automation exercise page</span>
-
-  <span class="lead-duration duration">24.528</span>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
+  <div id="steps-2" class="inner-level collapse collapsable-details  in ">
       <div class="step">
 
 
 <div class="brief step-name-When passed">
   <span class="keyword indention">When</span>
-  <span class="name">I go to Products page using the top menu</span>
+  <span class="name">Cucumber failed while executing</span>
 
-  <span class="lead-duration duration">15.843</span>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-      <div class="step">
-
-
-<div class="brief step-name-And passed">
-  <span class="keyword indention">And</span>
-  <span class="name">I go to details product with &quot;<span class="argument">1</span>&quot; as identifier and scroll down &quot;<span class="argument">450</span>&quot;</span>
-
-  <span class="lead-duration duration">2.463</span>
+  <span class="lead-duration duration">0.000</span>
 
 </div>
 
@@ -351,92 +257,11 @@ $(document).ready(function() {
       <div class="step">
 
 
-<div class="brief step-name-And passed">
-  <span class="keyword indention">And</span>
-  <span class="name">I set the number &quot;<span class="argument">-9</span>&quot; in quantity part from details product</span>
+<div class="brief step-name-Then failed">
+  <span class="keyword indention">Then</span>
+  <span class="name">Cucumber will report this error:</span>
 
-  <span class="lead-duration duration">10.435</span>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-      <div class="step">
-
-
-<div class="brief step-name-And passed">
-  <span class="keyword indention">And</span>
-  <span class="name">I go to cart page using the top menu</span>
-
-  <span class="lead-duration duration">2.088</span>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-      <div class="step">
-
-
-<div class="brief step-name-And passed">
-  <span class="keyword indention">And</span>
-  <span class="name">I go to remove a product from cart with &quot;<span class="argument">1</span>&quot; as identifier</span>
-
-  <span class="lead-duration duration">0.070</span>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-      <div class="step">
-
-
-<div class="brief step-name-And failed">
-  <span class="keyword indention">And</span>
-  <span class="name">I go to check if the product had a negative number in quantity</span>
-
-  <span class="lead-duration duration">0.012</span>
+  <span class="lead-duration duration">0.000</span>
 
 </div>
 
@@ -447,17 +272,20 @@ $(document).ready(function() {
 
   <div class="inner-level">
     <div class="message indention">
-      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-4">
-          <a>java.lang.AssertionError:</a>
+      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-3">
+          <a>java.lang.IllegalArgumentException:</a>
       </div>
-      <div id="msg-4" class="collapse collapsable-details  in ">
-        <pre>java.lang.AssertionError: expected [false] but found [true]
-	at org.testng.Assert.fail(Assert.java:110)
-	at org.testng.Assert.failNotEquals(Assert.java:1577)
-	at org.testng.Assert.assertFalse(Assert.java:78)
-	at org.testng.Assert.assertFalse(Assert.java:88)
-	at com.jalasoft.automation.steps.admin.DetailsSteps.isANegativeNumberPresent(DetailsSteps.java:48)
-	at &#10045;.I go to check if the product had a negative number in quantity(classpath:features/admin/products.feature:58)
+      <div id="msg-3" class="collapse collapsable-details  in ">
+        <pre>java.lang.IllegalArgumentException: Extension must exist: C:\Users\TUF GAMER\Desktop\AT18 - JALA\APITesting\SeleniumProjectOfficial\AutomationIndividualProject\AutomationTest\src\resources\files\extensions\ublock.crx
+	at org.openqa.selenium.internal.Require$FileChecker.isFile(Require.java:270)
+	at org.openqa.selenium.chromium.ChromiumOptions.lambda$addExtensions$0(ChromiumOptions.java:148)
+	at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4204)
+	at org.openqa.selenium.chromium.ChromiumOptions.addExtensions(ChromiumOptions.java:148)
+	at org.openqa.selenium.chromium.ChromiumOptions.addExtensions(ChromiumOptions.java:137)
+	at framework.selenium.DriverManager.initialize(DriverManager.java:55)
+	at framework.selenium.DriverManager.&lt;init&gt;(DriverManager.java:34)
+	at framework.selenium.DriverManager.getInstance(DriverManager.java:39)
+	at com.jalasoft.automation.steps.hooks.ScenarioHooks.afterAll(ScenarioHooks.java:51)
 </pre>
       </div>
     </div>
@@ -480,69 +308,6 @@ $(document).ready(function() {
 
 
 
-  <div class="inner-level hooks-element-after">
-    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#after-5">
-
-<div class="brief passed">
-  <span class="keyword indention">Hooks</span>
-  <span class="name"></span>
-
-
-     <i class="chevron fa fa-fw"></i>
-</div>
-
-    </div>
-
-    <div id="after-5" class="inner-level collapse collapsable-details ">
-        <div class="hook">
-          <div class="brief passed">
-            <span class="keyword indention">After</span>
-              <span class="location name">com.jalasoft.automation.steps.hooks.admin.AdminFeatureHook.afterLoginAdmin()</span>
-
-  <span class="lead-duration duration">2.044</span>
-
-          </div>
-
-
-
-
-
-
-
-        </div>
-        <div class="hook">
-          <div class="brief passed">
-            <span class="keyword indention">After</span>
-              <span class="location name">com.jalasoft.automation.steps.hooks.ScenarioHooks.afterScenario(io.cucumber.java.Scenario)</span>
-
-  <span class="lead-duration duration">0.179</span>
-
-          </div>
-
-
-
-
-
-
-  <div class="embeddings inner-level">
-  <div class="embedding indention">
-    <div data-toggle="collapse" data-target="#embedding-6" class="collapsable-control">
-      <a>d7854477-ac5e-4613-bbe1-081f2ad4343d</a>
-      <a href="embeddings/embedding_1556205480.png" download target="_blank">
-        <span class="download-button glyphicon glyphicon-download-alt"></span>
-      </a>
-    </div>
-    <div id="embedding-6" class="collapse collapsable-details ">
-      <div class="embedding-content">
-        <img src="embeddings/embedding_1556205480.png">
-      </div>
-    </div>
-  </div>
-  </div>
-
-        </div>
-    </div>
-  </div>
 
   </div>
 </div>

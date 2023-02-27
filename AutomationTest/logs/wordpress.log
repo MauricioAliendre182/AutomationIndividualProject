@@ -1,510 +1,671 @@
-2023-02-22 01:04:23.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:04:23.438 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:04:23.439 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:04:29.136 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:04:29.145 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:04:29.146 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:04:29.147 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:04:33.328 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:04:33.564 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:05:28.493 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:05:28.496 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:05:28.497 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:09:46.144 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:09:46.146 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:09:46.147 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:40:24.141 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:40:24.142 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:40:24.143 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:40:26.904 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:40:26.909 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:40:26.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:40:26.911 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:40:30.417 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:40:30.642 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:41:25.282 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:41:25.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:41:25.284 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:41:28.246 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:41:28.250 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:41:28.250 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:41:28.250 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:41:32.624 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:41:32.845 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:42:17.624 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:42:17.626 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:42:17.626 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:42:19.703 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:42:19.706 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:42:19.706 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:42:19.707 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:42:23.465 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:42:23.645 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:44:16.876 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:44:16.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> edge
-2023-02-22 01:44:16.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:44:32.495 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:44:32.502 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:44:32.502 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:44:32.503 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:44:36.133 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:44:36.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:45:33.025 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:45:33.028 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> edge
-2023-02-22 01:45:33.028 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:45:37.421 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:45:37.425 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:45:37.425 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:45:37.425 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:45:42.263 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:45:42.672 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:46:24.497 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:46:24.498 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 01:46:24.499 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:46:31.791 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:46:31.796 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:46:31.796 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:46:31.797 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:46:39.223 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:46:39.374 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:48:03.792 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:48:03.795 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 01:48:03.795 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:48:07.667 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:48:07.670 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:48:07.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:48:07.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:48:34.565 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 01:48:54.707 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:48:55.086 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:49:42.639 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:49:42.640 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:49:42.641 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:49:45.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:49:45.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:49:45.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:49:45.118 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:50:15.016 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 01:50:35.375 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:50:35.776 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:55:49.932 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:55:49.935 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:55:49.935 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:55:53.273 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:55:53.279 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:55:53.279 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:55:53.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:56:21.715 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 01:56:32.054 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:56:32.324 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:57:23.722 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:57:23.723 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:57:23.723 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:57:25.935 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:57:25.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:57:25.940 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:57:25.940 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:57:35.162 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 01:57:35.274 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 01:57:44.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 01:57:54.717 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:57:54.916 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 01:58:20.019 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 01:58:20.021 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 01:58:20.021 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 01:58:22.256 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 01:58:22.259 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 01:58:22.259 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 01:58:22.260 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 01:58:29.468 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 01:58:29.575 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 01:58:37.466 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 01:58:41.872 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 01:58:41.907 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:02:27.653 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:02:27.655 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:02:27.655 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:02:29.951 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:02:29.954 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:02:29.955 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:02:29.955 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:02:38.111 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:02:38.222 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:02:48.315 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:02:51.706 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:02:51.896 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:08:05.038 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:08:05.040 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:08:05.040 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:08:07.416 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:08:07.421 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:08:07.421 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:08:07.422 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:08:15.630 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:08:15.749 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:08:15.797 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:08:18.008 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:08:18.230 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:08:45.518 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:08:45.519 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:08:45.520 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:08:47.726 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:08:47.729 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:08:47.729 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:08:47.730 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:08:56.884 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:08:57.041 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:08:57.116 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:08:58.996 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:08:59.215 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:14:25.945 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:14:25.947 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:14:25.947 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:14:28.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:14:28.541 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:14:28.541 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:14:28.541 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:14:37.147 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:14:37.289 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:14:37.357 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:14:40.073 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:14:40.292 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:18:24.356 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:18:24.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:18:24.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:18:26.535 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:18:26.539 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:18:26.539 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:18:26.539 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:18:36.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:18:36.221 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:18:36.270 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:18:38.321 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:18:38.550 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:24:29.089 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:24:29.091 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:24:29.091 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:24:31.534 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:24:31.538 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:24:31.538 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:24:31.539 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:24:39.891 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:24:40.003 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:25:00.390 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:25:01.730 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:25:02.092 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:31:29.421 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:31:29.423 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:31:29.423 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:31:32.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:31:32.312 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:31:32.313 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:31:32.314 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:31:39.702 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:31:39.825 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:31:49.957 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:31:52.431 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:31:52.617 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:33:00.243 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:33:00.245 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:33:00.245 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:33:02.472 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:33:02.475 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:33:02.476 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:33:02.476 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:33:10.836 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:33:10.949 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:33:31.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:33:32.921 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:33:33.057 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:40:17.490 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:40:17.492 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:40:17.493 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:40:24.596 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:40:24.629 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:40:24.629 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:40:24.630 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:40:45.699 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:40:45.702 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:40:45.703 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:40:48.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:40:48.620 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:40:48.620 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:40:48.621 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:40:58.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:40:58.835 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:40:59.143 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:41:00.763 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:41:01.053 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:44:45.230 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:44:45.233 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:44:45.233 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:44:47.341 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:44:47.345 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:44:47.345 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:44:47.345 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:44:56.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:44:56.216 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:44:56.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:44:57.838 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:44:58.104 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 02:54:26.145 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 02:54:26.147 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 02:54:26.148 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 02:54:28.367 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 02:54:28.370 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 02:54:28.371 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 02:54:28.371 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 02:54:37.274 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:54:37.380 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 02:54:37.625 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 02:54:39.232 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 02:54:39.792 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:04:36.963 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:04:36.965 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 03:04:36.966 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:04:39.767 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:04:39.769 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:04:39.769 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:04:39.769 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:04:51.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:04:51.487 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:04:51.758 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:04:53.382 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:04:53.811 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:07:34.641 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:07:34.643 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 03:07:34.644 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:07:37.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:07:37.118 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:07:37.118 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:07:37.119 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:07:45.423 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:07:45.527 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:07:55.829 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:07:57.292 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:07:57.638 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:11:28.191 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:11:28.194 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 03:11:28.194 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:11:30.900 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:11:30.904 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:11:30.904 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:11:30.904 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:11:40.153 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:11:40.263 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:11:40.514 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:11:42.092 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:11:42.369 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:17:00.692 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:17:00.693 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 03:17:00.694 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:17:03.190 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:17:03.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:17:03.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:17:03.197 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:17:16.162 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:17:16.263 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:17:26.812 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:17:28.242 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:17:28.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:22:04.906 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:22:04.908 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> edge
-2023-02-22 03:22:04.909 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:22:09.973 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:22:09.980 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:22:09.980 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:22:09.981 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:22:21.776 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:22:21.924 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:22:28.154 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:22:28.170 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:22:44.984 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:22:44.986 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 03:22:44.987 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:22:49.846 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:22:49.850 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:22:49.851 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:22:49.851 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:22:58.330 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:22:59.607 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:23:16.683 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:23:20.707 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:23:20.914 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:24:31.408 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:24:31.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 03:24:31.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:24:36.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:24:36.842 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:24:36.842 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:24:36.843 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:24:42.440 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:24:43.958 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:24:54.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:24:54.551 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:24:54.943 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:27:34.245 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:27:34.247 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 03:27:34.247 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:27:39.297 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:27:39.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:27:39.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:27:39.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:27:45.379 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:27:46.859 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:27:52.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:27:52.380 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:27:52.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:35:35.753 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:35:35.755 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 03:35:35.755 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:35:40.854 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:35:40.859 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:35:40.859 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:35:40.859 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:35:48.112 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:35:49.942 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:35:55.896 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:35:56.004 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 03:35:56.166 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 03:36:29.413 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 03:36:29.414 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 03:36:29.414 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 03:36:32.828 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 03:36:32.834 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 03:36:32.834 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 03:36:32.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 03:36:39.107 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:36:40.734 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 03:36:47.157 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 03:36:50.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 03:36:50.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 11:49:05.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 11:49:05.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> firefox
-2023-02-22 11:49:05.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 11:49:12.327 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 11:49:12.335 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 11:49:12.335 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 11:49:12.336 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 11:49:20.535 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 11:49:22.189 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 11:49:32.751 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 11:49:40.300 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 11:49:40.308 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 11:54:32.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 11:54:32.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 11:54:32.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 11:54:36.233 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 11:54:36.239 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 11:54:36.239 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 11:54:36.240 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 11:54:47.618 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 11:54:47.813 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 11:55:08.566 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 11:55:10.277 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 11:55:10.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 12:02:48.676 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 12:02:48.679 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 12:02:48.679 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 12:02:53.543 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:02:53.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 12:02:53.548 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 12:02:53.549 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 12:03:06.897 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:03:07.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:03:36.148 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 12:03:38.456 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:03:38.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 12:29:43.433 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 12:29:43.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 12:29:43.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 12:29:48.501 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:29:48.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 12:29:48.507 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 12:29:48.507 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 12:30:04.378 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:30:04.578 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:30:35.285 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 12:30:37.881 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:30:37.889 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:30:46.356 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:30:46.500 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:31:14.618 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should be able to add a product to cart
-2023-02-22 12:31:15.004 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 12:34:27.071 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 12:34:27.074 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 12:34:27.075 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 12:34:31.800 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:34:31.805 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 12:34:31.805 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 12:34:31.806 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 12:34:45.977 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:34:46.138 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:35:14.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 12:35:17.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:35:17.655 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:35:24.795 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:35:24.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:35:34.069 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:35:34.070 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 12:37:45.763 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 12:37:45.765 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 12:37:45.766 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 12:37:50.278 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:37:50.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 12:37:50.283 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 12:37:50.284 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 12:38:03.758 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:38:03.996 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:38:17.282 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 12:38:18.718 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:38:18.726 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 12:38:37.319 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:38:37.472 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 12:38:46.558 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 12:38:48.502 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 12:38:48.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 16:24:39.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 16:24:39.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 16:24:39.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 16:24:44.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 16:24:44.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 16:24:54.672 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:24:54.806 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:24:58.589 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:24:59.607 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:24:59.610 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:25:08.431 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:25:08.531 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:25:14.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:25:15.294 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:25:15.296 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
-2023-02-22 16:50:47.391 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
-2023-02-22 16:50:47.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
-2023-02-22 16:50:47.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
-2023-02-22 16:50:50.994 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:50:50.997 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
-2023-02-22 16:50:50.997 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
-2023-02-22 16:50:50.998 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
-2023-02-22 16:51:00.745 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:00.841 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:04.709 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:51:05.734 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:51:05.739 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:51:13.964 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:14.063 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:19.364 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:51:20.265 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:51:20.268 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:51:30.267 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:30.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:38.834 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:51:39.740 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:51:39.742 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
-2023-02-22 16:51:44.536 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:44.629 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
-2023-02-22 16:51:50.284 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
-2023-02-22 16:51:52.230 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
-2023-02-22 16:51:52.231 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 13:45:53.344 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 13:45:53.357 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 13:45:53.357 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 13:45:53.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 13:45:53.360 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 13:45:53.360 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 13:45:53.361 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 13:46:09.021 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:46:09.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:46:45.730 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:46:47.016 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 13:46:47.023 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 13:46:51.748 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:46:51.875 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:47:21.112 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:47:23.348 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 13:47:23.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 13:47:32.979 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:47:33.076 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:48:06.343 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:48:08.281 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 13:48:08.285 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 13:48:15.365 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:48:15.503 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:48:38.861 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:48:40.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 13:48:40.936 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 13:48:48.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:48:48.491 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:49:16.421 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:49:18.663 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 13:49:18.670 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 13:49:27.040 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:49:27.176 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 13:49:51.775 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 13:49:54.135 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 13:49:54.146 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:24:51.857 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:24:51.861 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:24:51.862 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:24:51.862 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:24:51.863 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:24:51.863 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:24:51.864 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:25:06.081 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:25:06.186 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:25:38.473 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:25:40.331 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:25:40.457 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:25:46.900 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:25:47.002 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:26:54.888 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:26:54.898 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:26:54.908 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:26:54.913 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:29:33.518 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:29:33.521 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:29:33.522 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:29:33.522 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:29:33.523 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:29:33.523 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:29:33.524 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:29:51.992 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:29:52.121 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:30:28.864 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:30:30.905 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:30:30.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:30:37.620 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:30:37.785 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:31:12.433 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:31:14.420 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:31:14.424 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:31:20.173 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:31:20.291 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:31:56.234 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:31:58.207 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:31:58.209 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:32:28.929 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:32:28.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:32:28.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:32:28.935 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:32:28.938 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:32:28.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:32:28.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:32:48.500 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:32:48.602 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:33:26.806 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:33:28.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:33:28.842 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:33:34.314 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:33:34.443 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:34:07.181 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:34:09.181 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:34:09.185 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:34:18.359 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:34:18.562 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:34:51.988 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:34:53.986 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:34:53.990 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:40:45.435 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:40:45.440 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:40:45.440 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:40:45.441 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:40:45.443 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:40:45.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:40:45.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:40:58.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:40:58.206 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:41:29.905 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:41:31.901 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:41:32.042 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:41:37.165 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:41:37.270 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:42:10.243 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:42:12.231 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:42:12.340 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:42:17.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:42:17.753 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:42:49.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:42:51.886 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:42:52.010 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:44:21.473 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:44:21.477 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:44:21.478 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:44:21.478 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:44:21.479 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:44:21.479 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:44:21.480 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:44:35.939 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:44:36.032 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:44:54.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:44:56.140 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:44:56.143 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:45:52.490 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:45:52.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:45:52.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:45:52.495 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:45:52.496 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:45:52.496 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:45:52.496 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:46:10.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:46:10.604 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:46:36.493 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:46:38.482 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:46:38.484 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:52:18.916 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:52:18.921 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:52:18.921 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:52:18.921 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:52:18.923 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:52:18.923 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:52:18.923 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:52:31.306 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:52:31.395 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:52:52.900 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:52:54.982 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:52:55.104 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:55:10.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:55:10.119 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:55:10.119 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:55:10.119 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:55:10.121 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:55:10.121 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:55:10.121 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 17:55:23.159 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:55:23.256 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 17:55:43.744 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 17:55:45.797 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:55:45.912 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 17:59:56.347 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 17:59:56.351 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 17:59:56.351 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 17:59:56.352 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 17:59:56.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 17:59:56.353 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 17:59:56.354 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 18:00:09.297 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:00:09.390 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:00:32.903 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 18:00:34.988 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:00:35.115 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 18:01:26.461 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:01:26.465 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 18:01:26.465 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 18:01:26.466 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 18:01:26.467 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 18:01:26.467 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 18:01:26.468 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 18:01:39.509 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:01:39.602 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:02:08.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 18:02:10.572 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:02:10.693 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 18:06:23.866 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:06:23.871 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 18:06:23.871 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 18:06:23.872 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 18:06:23.873 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 18:06:23.874 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 18:06:23.874 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 18:06:40.397 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:06:40.493 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:07:06.807 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 18:07:08.890 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:07:09.018 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 18:18:25.873 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:18:25.878 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 18:18:25.879 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 18:18:25.880 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 18:18:25.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 18:18:25.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 18:18:25.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 18:18:44.535 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:18:44.739 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:19:10.246 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 18:19:12.307 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:19:12.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 18:24:20.028 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:24:20.032 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 18:24:20.033 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 18:24:20.033 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 18:24:20.035 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 18:24:20.035 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 18:24:20.036 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 18:24:32.609 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:24:32.711 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 18:24:54.995 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 18:24:56.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 18:24:56.954 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 19:48:33.837 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 19:48:33.841 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 19:48:33.841 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 19:48:33.841 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 19:48:33.843 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 19:48:33.843 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 19:48:33.843 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 19:48:48.556 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 19:48:48.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 19:49:09.269 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 19:49:11.279 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 19:49:11.401 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 20:13:13.497 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:13:13.502 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 20:13:13.503 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 20:13:13.503 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 20:13:13.505 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 20:13:13.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 20:13:13.506 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 20:13:28.571 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:13:28.674 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:13:49.328 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:13:51.254 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:13:51.372 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:14:00.513 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:14:00.604 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:14:22.882 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:14:24.857 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:14:24.965 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:14:30.294 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:14:30.391 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:14:49.889 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:14:51.871 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:14:51.985 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:15:01.076 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:15:01.162 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:15:23.764 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:15:25.682 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:15:25.794 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:15:30.830 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:15:30.931 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:15:51.591 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:15:53.459 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:15:53.563 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:15:58.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:15:58.392 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:16:17.954 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:16:20.058 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:16:20.160 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 20:27:10.110 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 20:27:10.114 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 20:27:10.115 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 20:27:10.115 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 20:27:10.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 20:27:10.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 20:27:10.117 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 20:27:22.698 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:27:22.896 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:27:49.123 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:27:51.267 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 20:27:51.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 20:27:56.172 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:27:56.266 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:28:20.886 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:28:23.137 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 20:28:23.150 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 20:28:29.287 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:28:29.515 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:28:57.273 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:28:59.289 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 20:28:59.296 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 20:29:04.418 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:29:04.555 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:29:25.853 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:29:27.750 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 20:29:27.759 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 20:29:33.209 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:29:33.376 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:29:56.046 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:30:00.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 20:30:00.678 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 20:30:06.826 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:30:06.970 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:30:32.514 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:30:34.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 20:30:34.357 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:30:39.190 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:30:39.290 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:31:00.869 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:31:03.520 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:31:03.691 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:31:10.488 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:31:11.352 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:31:33.601 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:31:35.443 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:31:35.585 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:31:44.878 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:31:44.987 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:32:08.803 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:32:10.615 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:32:10.725 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:32:19.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:32:19.403 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:32:45.596 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:32:47.399 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:32:47.403 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:32:56.728 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:32:56.822 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:33:22.338 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:33:24.136 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:33:24.139 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:33:29.855 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:33:29.937 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:33:49.985 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:33:52.226 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 20:33:52.249 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:33:56.676 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:33:56.762 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:34:09.047 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:34:10.075 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:34:10.079 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:34:14.822 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:34:14.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:34:29.752 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:34:31.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:34:31.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:34:36.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:34:36.526 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:34:50.320 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:34:52.226 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:34:52.232 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:35:00.878 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:00.954 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:16.988 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:35:18.787 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:35:18.788 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:35:23.860 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:23.958 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:37.753 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:35:39.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:35:39.542 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to add a product to cart
+2023-02-26 20:35:44.347 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:44.429 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:35:58.014 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:35:59.815 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to add a product to cart
+2023-02-26 20:35:59.817 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to filter the products by category and subcategory
+2023-02-26 20:36:08.544 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:36:08.630 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:36:23.677 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:36:25.455 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to filter the products by category and subcategory
+2023-02-26 20:36:25.458 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to filter the products by category and subcategory
+2023-02-26 20:36:33.680 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:36:33.775 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:36:52.501 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:36:54.341 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to filter the products by category and subcategory
+2023-02-26 20:36:54.346 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to filter the products by brand
+2023-02-26 20:36:59.731 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:36:59.822 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:04.853 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:37:06.007 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to filter the products by brand
+2023-02-26 20:37:06.011 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to filter the products by brand
+2023-02-26 20:37:13.381 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:13.492 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:19.933 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:37:22.027 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to filter the products by brand
+2023-02-26 20:37:22.031 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to filter the products by brand
+2023-02-26 20:37:30.081 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:30.307 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:40.683 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:37:42.177 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to filter the products by brand
+2023-02-26 20:37:42.182 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to set a negative number in quantity products
+2023-02-26 20:37:45.257 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:37:45.368 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:38:02.437 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:38:04.815 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to set a negative number in quantity products
+2023-02-26 20:38:05.032 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to set a negative number in quantity products
+2023-02-26 20:38:10.685 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:38:10.834 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 20:38:28.859 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 20:38:30.800 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to set a negative number in quantity products
+2023-02-26 20:38:30.965 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 21:14:09.698 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 21:14:09.702 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:14:09.703 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:14:09.703 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:14:09.704 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:14:09.705 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:14:09.705 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:14:26.348 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:14:26.479 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:14:51.183 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:14:52.865 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 21:14:52.869 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 21:14:55.820 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:14:56.068 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:15:18.522 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:15:20.815 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 21:15:20.819 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to go to details product from cart section
+2023-02-26 21:15:24.974 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:15:25.201 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:15:48.665 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:15:50.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to go to details product from cart section
+2023-02-26 21:15:50.913 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 21:15:57.517 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:15:57.715 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:16:18.744 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:16:21.102 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 21:16:21.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 21:16:25.814 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:16:26.025 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:16:47.808 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:16:49.291 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 21:16:49.296 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should be able to remove a product from cart
+2023-02-26 21:16:53.687 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:16:54.053 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:17:14.561 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:17:15.828 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should be able to remove a product from cart
+2023-02-26 21:17:15.832 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:17:18.981 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:17:19.271 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:17:39.619 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:17:42.184 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:17:42.255 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:17:46.268 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:17:46.544 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:18:04.385 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:18:06.011 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:18:06.094 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:18:09.128 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:18:09.363 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:18:27.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:18:29.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:18:29.819 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:18:35.708 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:18:35.790 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:18:54.372 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:18:56.734 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:18:56.857 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:19:01.987 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:19:02.244 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:19:22.216 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:19:24.575 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:19:24.673 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:08.255 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:08.259 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:22:08.259 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:22:08.260 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:08.262 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:22:08.262 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:22:08.263 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.010 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:09.010 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.190 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:09.190 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.392 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:09.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:09.393 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.557 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:09.557 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.732 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:09.732 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:09.732 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:09.896 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:09.897 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.069 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.069 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:10.070 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.242 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.243 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:10.412 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.581 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.581 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.740 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.741 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:22:10.741 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:10.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:22:10.910 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:22:11.079 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:14.448 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:14.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:23:14.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:23:14.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:14.455 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:23:14.455 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:23:14.455 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:14.909 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:14.909 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:15.085 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:15.085 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:15.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:15.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:15.301 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:15.512 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:15.512 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:15.736 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:15.737 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:15.737 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:15.933 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:15.933 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:16.148 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:16.149 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:16.149 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:16.358 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:16.359 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:16.561 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:16.562 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:16.562 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:16.782 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:16.782 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:16.969 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:16.970 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:23:16.970 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:17.145 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:23:17.145 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:23:17.331 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:35.249 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:35.254 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:24:35.254 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:24:35.255 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:35.258 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:24:35.258 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:24:35.258 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:35.695 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:35.696 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:35.936 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:35.937 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:36.157 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:36.158 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:36.158 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:36.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:36.350 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:36.531 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:36.532 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:36.532 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:36.701 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:36.701 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:36.932 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:36.932 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:36.933 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:37.132 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:37.132 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:37.337 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:37.338 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:37.338 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:37.532 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:37.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:37.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:37.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:24:37.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:37.893 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:24:37.893 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:24:38.091 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:27:13.460 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:27:13.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:27:13.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:27:13.465 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:27:13.468 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:27:13.468 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:27:13.468 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:27:27.662 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:27:28.025 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:27:51.385 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:27:53.451 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:27:53.604 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:28:03.565 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:28:03.685 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:29:26.527 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:29:26.532 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:29:26.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:29:26.533 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:29:26.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:29:26.537 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> chrome
+2023-02-26 21:29:26.538 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:29:40.599 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:29:40.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:30:05.490 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:30:07.474 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:30:07.595 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:30:14.451 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:30:14.559 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:30:36.098 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:30:38.084 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:30:38.205 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:30:44.647 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:30:44.749 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:31:05.045 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:31:07.024 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:31:07.131 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:31:12.336 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:31:12.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:31:33.223 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:31:35.509 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:31:35.514 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:31:53.901 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:31:53.999 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:32:39.360 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:32:46.651 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:32:46.679 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:33:05.413 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:33:05.616 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:33:53.346 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:34:00.269 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:34:00.309 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver
+2023-02-26 21:43:47.821 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:43:47.825 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading credentials
+2023-02-26 21:43:47.825 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - WordPress Environment Id --> user
+2023-02-26 21:43:47.825 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Page Transporter
+2023-02-26 21:43:47.830 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Reading WebDriver config
+2023-02-26 21:43:47.830 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Selected browser is --> edge
+2023-02-26 21:43:47.831 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initializing Selenium WebDriver Manager
+2023-02-26 21:44:23.060 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:44:23.280 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:44:43.110 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:44:44.915 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:44:45.163 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:44:50.256 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:44:50.366 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:45:07.384 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:45:08.288 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:45:08.396 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:45:12.519 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:45:12.610 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:45:30.189 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:45:30.984 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> FAILED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:45:31.096 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:45:33.564 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:45:33.684 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:45:53.808 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:45:55.543 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:45:55.546 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:46:00.225 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:46:00.431 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:46:19.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:46:21.144 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:46:21.146 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:46:29.141 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:46:29.253 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Initialize the home page
+2023-02-26 21:46:45.317 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - User logout
+2023-02-26 21:46:46.124 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Scenario: --> PASSED : A user should not be able to fill the checkout form with the same information for every field
+2023-02-26 21:46:46.126 INFO [main] [utils.LoggerManager.log(LoggerManager.java:33)] - Closing WebDriver

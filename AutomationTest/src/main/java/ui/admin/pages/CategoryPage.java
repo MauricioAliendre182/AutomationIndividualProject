@@ -28,7 +28,7 @@ public class CategoryPage extends BaseAdminPage {
     }
 
     public boolean isOnTheCorrectCategory(String category, String subcategory) {
-        String path = String.format("//h2[contains(text(), '%1$s - %2$s ')]", category, subcategory);
+        String path = String.format("//h2[contains(text(), '%1$s - %2$s')]", category, subcategory);
         WebElement title = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(path)));
         return title.isDisplayed();
     }

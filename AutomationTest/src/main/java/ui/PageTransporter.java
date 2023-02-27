@@ -18,6 +18,9 @@ public class PageTransporter {
     private String brandURL;
     private String categoryURL;
     private String detailsURL;
+    private String checkoutURL;
+    private String paymentURL;
+    private String paymentDoneURL;
     private static PageTransporter instance;
 
     protected PageTransporter() {
@@ -39,6 +42,9 @@ public class PageTransporter {
         brandURL = credentialsManager.getBrandURL();
         categoryURL = credentialsManager.getCategoryURL();
         detailsURL = credentialsManager.getDetailsURL();
+        checkoutURL = credentialsManager.getCheckoutURL();
+        paymentURL = credentialsManager.getPaymentURL();
+        paymentDoneURL = credentialsManager.getPaymentDoneURL();
         driver = DriverManager.getInstance().getWebDriver();
     }
 
@@ -63,11 +69,23 @@ public class PageTransporter {
     }
 
     public boolean isOnDetailsPage() {
-        return driver.getCurrentUrl().contains(detailsURL);
+        return driver.getCurrentUrl().startsWith(detailsURL);
     }
 
     public boolean isOnBrandPage() {
         return driver.getCurrentUrl().contains(brandURL);
+    }
+
+    public boolean isOnCheckoutPage() {
+        return driver.getCurrentUrl().contains(checkoutURL);
+    }
+
+    public boolean isOnPaymentPage() {
+        return driver.getCurrentUrl().contains(paymentURL);
+    }
+
+    public boolean isOnPaymentDonePage() {
+        return driver.getCurrentUrl().contains(paymentDoneURL);
     }
 
     public LoginPage navigateToAdminLoginPage() {

@@ -13,7 +13,7 @@ dependencies {
     testImplementation group: 'io.cucumber', name: 'cucumber-java', version: '7.11.1'
     testImplementation group: 'io.cucumber', name: 'cucumber-testng', version: '7.11.1'
     testImplementation group: 'io.cucumber', name: 'cucumber-picocontainer', version: '7.11.1'
-    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.8.0'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.8.1'
     implementation group: 'io.rest-assured', name: 'rest-assured', version: '5.3.0'
     implementation group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.14.2'
     implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jdk8', version: '2.14.2'
@@ -90,12 +90,12 @@ def setHeadlessMode() {
 
 def setEmail() {
     ant.propertyfile(file: "environments.properties") {
-        entry(key: "user.email", value: project.findProperty("email") ?: 'maps.3167@gmail.com')
+        entry(key: "user.email", value: project.findProperty("email") ?: 'gonzalo@hotmail.com')
     }
 }
 
 def setPassword() {
     ant.propertyfile(file: "environments.properties") {
-        entry(key: "user.password", value: project.findProperty("password") ?: 'Maps182')
+        entry(key: "user.password", value: project.findProperty("password") ?: 'Gonzalo123')
     }
 }

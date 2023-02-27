@@ -29,7 +29,7 @@ public class BrandPage extends BaseAdminPage {
     }
 
     public boolean IsOnTheCorrectBrand(String section, String brand) {
-        String path = String.format("//h2[contains(text(), '%1$s - %2$s ')]", section, brand);
+        String path = String.format("//h2[contains(text(), '%1$s - %2$s')]", section, brand);
         WebElement title = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(path)));
         return title.isDisplayed();
     }

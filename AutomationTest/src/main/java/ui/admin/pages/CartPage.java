@@ -27,14 +27,26 @@ public class CartPage extends BaseAdminPage {
         quantityButton.click();
     }
 
+    public Boolean isNegativeNumber() {
+        String negativeNumber = "//button[contains(text(),'-')]";
+        WebElement negativeNumberElement = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(negativeNumber)));
+        return negativeNumberElement.isDisplayed();
+    }
+
     public void clickOnDeleteProduct(String idProduct) {
-        String deletePath = String.format("//a[@class='cart_quantity_delete'][%s]",idProduct);
+        String deletePath = String.format("//a[@data-product-id='%s']",idProduct);
         WebElement deleteButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(deletePath)));
         deleteButton.click();
     }
 
+    public Boolean isTheProductPresent() {
+        String emptyPath = "//b[text()='Cart is empty!']";
+        WebElement emptyLabel = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(emptyPath)));
+        return emptyLabel.isDisplayed();
+    }
+
     public DetailsPage clickOnDetailsProduct (String idProduct) {
-        String detailsPath = String.format("//a[contains(@href,'/product_details/%s')]",idProduct);
+        String detailsPath = String.format("//a[@href = '/product_details/%s']",idProduct);
         WebElement detailsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(detailsPath)));
         detailsButton.click();
         return new DetailsPage();
